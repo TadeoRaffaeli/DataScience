@@ -10,6 +10,7 @@ Este proyecto se ha desarrollado en Python y se ejecuta en un entorno de Google 
 - Scikit-learn
 - Matplotlib
 - Seaborn
+También es necesario cargar el csv adjuntado en esta carpeta (winequality-red.csv) con el mismo nombre para poder ejecutar el código correctamente.
 
 ## Instalación
 1. Clona este repositorio en tu entorno de Google Colab.
