@@ -26,7 +26,5 @@ También es necesario cargar el csv adjuntado en esta carpeta (winequality-red.c
 
 - Este proyecto tiene fines académicos y está diseñado para ayudarte a comprender cómo se pueden aplicar técnicas de Data Science a conjuntos de datos del mundo real.
 
-## Contribución
-Actualmente, este proyecto está en progreso. Si deseas contribuir, no dudes en hacer una solicitud de extracción o informar cualquier problema.
 
 
